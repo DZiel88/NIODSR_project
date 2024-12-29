@@ -1,0 +1,25 @@
+[0.683s] Invoking command in '/home/damian/Documents/project_NIODSR_ros2_ws/src/turtlebot_control': PYTHONPATH=/home/damian/Documents/project_NIODSR_ros2_ws/build/turtlebot_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/damian/Documents/project_NIODSR_ros2_ws/install/turtlebot_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot_control build --build-base /home/damian/Documents/project_NIODSR_ros2_ws/build/turtlebot_control/build install --record /home/damian/Documents/project_NIODSR_ros2_ws/build/turtlebot_control/install.log --single-version-externally-managed install_data
+[0.905s] running egg_info
+[0.906s] writing ../../build/turtlebot_control/turtlebot_control.egg-info/PKG-INFO
+[0.906s] writing dependency_links to ../../build/turtlebot_control/turtlebot_control.egg-info/dependency_links.txt
+[0.907s] writing entry points to ../../build/turtlebot_control/turtlebot_control.egg-info/entry_points.txt
+[0.907s] writing requirements to ../../build/turtlebot_control/turtlebot_control.egg-info/requires.txt
+[0.907s] writing top-level names to ../../build/turtlebot_control/turtlebot_control.egg-info/top_level.txt
+[0.908s] reading manifest file '../../build/turtlebot_control/turtlebot_control.egg-info/SOURCES.txt'
+[0.909s] writing manifest file '../../build/turtlebot_control/turtlebot_control.egg-info/SOURCES.txt'
+[0.909s] running build
+[0.909s] running build_py
+[0.909s] copying turtlebot_control/turtlebot_timer.py -> /home/damian/Documents/project_NIODSR_ros2_ws/build/turtlebot_control/build/lib/turtlebot_control
+[0.909s] running install
+[0.910s] running install_lib
+[0.910s] copying /home/damian/Documents/project_NIODSR_ros2_ws/build/turtlebot_control/build/lib/turtlebot_control/turtlebot_timer.py -> /home/damian/Documents/project_NIODSR_ros2_ws/install/turtlebot_control/lib/python3.10/site-packages/turtlebot_control
+[0.911s] byte-compiling /home/damian/Documents/project_NIODSR_ros2_ws/install/turtlebot_control/lib/python3.10/site-packages/turtlebot_control/turtlebot_timer.py to turtlebot_timer.cpython-310.pyc
+[0.911s] running install_data
+[0.911s] running install_egg_info
+[0.913s] removing '/home/damian/Documents/project_NIODSR_ros2_ws/install/turtlebot_control/lib/python3.10/site-packages/turtlebot_control-0.0.0-py3.10.egg-info' (and everything under it)
+[0.913s] Copying ../../build/turtlebot_control/turtlebot_control.egg-info to /home/damian/Documents/project_NIODSR_ros2_ws/install/turtlebot_control/lib/python3.10/site-packages/turtlebot_control-0.0.0-py3.10.egg-info
+[0.913s] running install_scripts
+[0.930s] Installing turtlebot3_ctl script to /home/damian/Documents/project_NIODSR_ros2_ws/install/turtlebot_control/lib/turtlebot_control
+[0.930s] Installing turtlebot3_timer script to /home/damian/Documents/project_NIODSR_ros2_ws/install/turtlebot_control/lib/turtlebot_control
+[0.931s] writing list of installed files to '/home/damian/Documents/project_NIODSR_ros2_ws/build/turtlebot_control/install.log'
+[0.957s] Invoked command in '/home/damian/Documents/project_NIODSR_ros2_ws/src/turtlebot_control' returned '0': PYTHONPATH=/home/damian/Documents/project_NIODSR_ros2_ws/build/turtlebot_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/damian/Documents/project_NIODSR_ros2_ws/install/turtlebot_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot_control build --build-base /home/damian/Documents/project_NIODSR_ros2_ws/build/turtlebot_control/build install --record /home/damian/Documents/project_NIODSR_ros2_ws/build/turtlebot_control/install.log --single-version-externally-managed install_data

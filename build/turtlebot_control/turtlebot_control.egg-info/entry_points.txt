@@ -1,0 +1,4 @@
+[console_scripts]
+turtlebot3_ctl = turtlebot_control.turtlebot_control:main
+turtlebot3_timer = turtlebot_control.turtlebot_timer:main
+
