@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NIODSR_project
 
 1. Będąc w folderze (aby pobrać paczkę zawierającą symulator) ./src wpisz: git clone -b humble https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
